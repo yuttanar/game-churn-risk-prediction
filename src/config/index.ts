@@ -1,0 +1,1 @@
+export const SCORE_HIGH_CHURN_RISK = -30
